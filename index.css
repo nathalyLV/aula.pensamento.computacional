@@ -1,0 +1,37 @@
+
+main {
+width: 940px;
+
+}
+
+form label, form p {
+  display: block; 
+  font-size: 20px
+   margin: 0 0 20px;
+    
+    }
+.input-padrao {  
+	display: block; 
+	 margin: 0 0 20px;
+	   padding: 10px 25px; 
+	    width: 50%;
+}
+.checkbox {
+margin: 20px 0;
+}
+form p{
+	color: blue;
+}
+table{
+	margin: 20px 0 40px;
+}
+thead{
+	background: grey;
+	color: red;
+	font-weight: bold;
+}
+
+tr, td{
+	border: 1px solid #000000;
+	font-size: 30px;
+	color: black;
