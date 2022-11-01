@@ -1,0 +1,47 @@
+form{
+	margin:40px 0;
+}
+form label{
+	display: block;
+	font-size: 20px;
+	margin: 0 0 10px;
+}
+.input-padrao{
+	display:block;
+	margin: 0 0 20px;
+	padding: 10px 25px;
+	width: 50%;
+}
+.enviar{
+	width: 40%;
+	padding:15px 0;
+	background: red;
+	color:gray;
+	font-weight: bold;
+	font-size: 11px;
+	border: non;
+	border-radius: 5px;
+	transition: 1s all;
+	cursor: pointer;
+}
+.enviar:hover{
+	background:darkred ;
+	transform: scale(1.5);
+	transform: rotat(100deg);
+}
+.girar{
+	width: 40%;
+	padding:15px 0;
+	background: yellow;
+	color:gray;
+	font-weight: bold;
+	font-size: 11px;
+	border: non;
+	border-radius: 5px;
+	transition: 1s all;
+	cursor: pointer;
+}
+.girar:hover{
+	background:blue ;
+	transform: scale(1.5);
+	transform: rotate(1000deg);
